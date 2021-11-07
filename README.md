@@ -13,7 +13,4 @@ I'm interested in applications of physics to Complex Systems. Currently working 
 
 Looking forward to collaborating in any of these topics.
 
-<!---
-alelage/alelage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Contact: just put a dot inbetween "el" at my github username + gmail.com
